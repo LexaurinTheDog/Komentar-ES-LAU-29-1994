@@ -150,7 +150,7 @@ El precepto no excluye la aplicación del régimen general de resolución por in
 
 *Nota de la fuente (BOE):* Se añade el apartado 6 por el art. 145 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117.
 
-El artículo 36, integrado en el título IV de aplicación imperativa a todo arrendamiento urbano (artículo 4.1), regula la fianza y las garantías adicionales. El apartado 1 impone, a la celebración del contrato, la exigencia y prestación de fianza en metálico equivalente a una mensualidad de renta en vivienda y dos en uso distinto. Su carácter obligatorio la distingue de las garantías voluntarias del apartado 5, y su falta de pago es causa de resolución (artículos 27.2.b y 35).
+El artículo 36, integrado en el título IV de aplicación imperativa a cualquier arrendamiento urbano (artículo 4.1), regula la fianza y las garantías adicionales. El apartado 1 impone, a la celebración del contrato, la exigencia y prestación de fianza en metálico equivalente a una mensualidad de renta en vivienda y dos en uso distinto. Su carácter obligatorio la distingue de las garantías voluntarias del apartado 5, y su falta de pago es causa de resolución (artículos 27.2.b y 35).
 
 El apartado 2 excluye la actualización de la fianza durante los cinco primeros años (siete si el arrendador es persona jurídica), pero en cada prórroga el arrendador puede exigir el incremento, o el arrendatario la disminución, hasta igualarla a una o dos mensualidades de la renta vigente. El apartado 3 deja a la voluntad de las partes la actualización en contratos de duración superior y, a falta de pacto, presume que el criterio de actualización de la renta se aplica también a la fianza. El apartado 4 establece que el saldo a restituir devenga el interés legal transcurrido un mes desde la entrega de llaves sin devolución.
 
@@ -212,7 +212,7 @@ El apartado 2 identifica como sujetos responsables a las plataformas en línea d
 
 El artículo 39 establece la clasificación tripartita de las infracciones del título V en muy graves, graves y leves, remitiendo a los artículos siguientes la tipificación de los actos y conductas concretos (artículos 40, 41 y 42). Se trata de una norma de estructura que cumple una función de cierre: solo son infracciones las conductas expresamente descritas en dichos preceptos, en coherencia con el principio de tipicidad propio del derecho sancionador y con la garantía procedimental del artículo 45.
 
-La clasificación tiene consecuencias en todo el régimen: determina la cuantía de las multas (artículo 43.2), los plazos de prescripción de infracciones y sanciones (artículo 44.1), el órgano competente para sancionar (artículo 46.1), la posibilidad de que el acuerdo de inicio surta efectos de resolución (artículo 50.4) y la publicación de las sanciones firmes (artículo 43.4). Como en el artículo 38, la nota de la fuente indica que un artículo 39 anterior fue derogado por la Ley 1/2000 y que el número se ha reutilizado.
+La clasificación tiene consecuencias en el conjunto del régimen: determina la cuantía de las multas (artículo 43.2), los plazos de prescripción de infracciones y sanciones (artículo 44.1), el órgano competente para sancionar (artículo 46.1), la posibilidad de que el acuerdo de inicio surta efectos de resolución (artículo 50.4) y la publicación de las sanciones firmes (artículo 43.4). Como en el artículo 38, la nota de la fuente indica que un artículo 39 anterior fue derogado por la Ley 1/2000 y que el número se ha reutilizado.
 
 ### Artículo 40 — Infracciones consideradas muy graves
 

@@ -200,7 +200,7 @@ La norma tiene carácter de cláusula de cierre. La LAU contiene numerosos plazo
 
 La disposición adicional undécima, añadida según la nota de la fuente por la Ley 12/2023, encomienda al Instituto Nacional de Estadística la definición, antes del 31 de diciembre de 2024, de un índice de referencia para la actualización anual de los contratos de arrendamiento de vivienda, que funcione como límite de referencia a efectos del artículo 18, con el objeto de evitar incrementos desproporcionados de la renta.
 
-Este índice es el que el artículo 18.1 denomina Índice de Referencia para la Actualización Anual de los Contratos de Arrendamiento de Vivienda (IRAV), cuya variación se aplica en defecto de índice pactado y opera en todo caso como límite máximo de la actualización anual. El artículo 17.8 lo utiliza también para limitar el incremento de renta en contratos temporales sucesivos sobre la misma vivienda. La disposición es, por tanto, la base institucional del sistema de contención de la actualización de rentas.
+Este índice es el que el artículo 18.1 denomina Índice de Referencia para la Actualización Anual de los Contratos de Arrendamiento de Vivienda (IRAV), cuya variación se aplica en defecto de índice pactado y opera siempre como límite máximo de la actualización anual. El artículo 17.8 lo utiliza también para limitar el incremento de renta en contratos temporales sucesivos sobre la misma vivienda. La disposición es, por tanto, la base institucional del sistema de contención de la actualización de rentas.
 
 La nota de la fuente remite, para los contratos anteriores, a la disposición transitoria cuarta de la Ley 12/2023, de modo que la aplicación del índice a contratos preexistentes depende de lo que esta establezca. En la práctica, la determinación del índice aplicable en cada actualización exige consultar el valor publicado por el Instituto Nacional de Estadística en la fecha correspondiente, conforme a las reglas de mes de referencia del artículo 18.1.
 
@@ -746,7 +746,7 @@ La disposición final tercera ordenó al Gobierno publicar en el «Boletín Ofic
 
 La disposición tiene carácter instrumental respecto de las reglas de actualización de rentas de los contratos antiguos. Las disposiciones transitorias segunda (apartado 11) y tercera (apartado 6) calculan la renta actualizada manteniendo la proporción entre la renta inicial y la evolución de los índices de precios o de coste de la vida desde la fecha del contrato, con referencias a índices de 1954 y 1964 para los contratos más antiguos. La publicación de series homogéneas de índices era indispensable para aplicar esas reglas con seguridad.
 
-Se trata de un mandato cumplido en su día, cuyo interés actual es sobre todo instrumental para quien deba reconstruir el cálculo de la renta de un contrato sujeto al régimen transitorio. No guarda relación con el índice de referencia de la disposición adicional undécima, que sirve a la actualización de los contratos sujetos al artículo 18.
+Se trata de un mandato cumplido en su día, cuyo interés actual es principalmente instrumental para quien deba reconstruir el cálculo de la renta de un contrato sujeto al régimen transitorio. No guarda relación con el índice de referencia de la disposición adicional undécima, que sirve a la actualización de los contratos sujetos al artículo 18.
 
 ### Disposición final cuarta — Compensaciones por vía fiscal
 
