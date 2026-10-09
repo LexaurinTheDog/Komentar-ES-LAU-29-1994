@@ -358,26 +358,11 @@ La disposición ilustra la técnica transitoria de la ley: respeta el régimen b
 >
 > 7.ª No procederá la actualización de renta prevista en este apartado cuando la suma de los ingresos totales que perciba el arrendatario y las personas que con él convivan habitualmente en la vivienda arrendada, no excedan de los límites siguientes:
 >
-> Número de personas
-> que convivan
-> en la vivienda arrendada
->
-> Límite
-> en número de veces
-> el salario mínimo
-> interprofesional
->
-> 1 ó 2
->
-> 2,5
->
-> 3 ó 4
->
-> 3
->
-> Más de 4
->
-> 3,5
+> | Número de personas que convivan en la vivienda arrendada | Límite en número de veces el salario mínimo interprofesional |
+> | --- | --- |
+> | 1 ó 2 | 2,5 |
+> | 3 ó 4 | 3 |
+> | Más de 4 | 3,5 |
 >
 > Los ingresos a considerar serán la totalidad de los obtenidos durante el ejercicio impositivo anterior a aquel en que se promueva por el arrendador la actualización de la renta.
 >
@@ -391,55 +376,18 @@ La disposición ilustra la técnica transitoria de la ley: respeta el régimen b
 >
 > En este caso, los porcentajes exigibles de la renta actualizada serán los siguientes:
 >
-> Período anual
-> de actualización
-> a partir de la entrada
-> en vigor de la ley
->
-> Porcentaje
-> exigible
-> de la renta
-> actualizada
->
-> 1.º
->
-> 10
->
-> 2.º
->
-> 20
->
-> 3.º
->
-> 30
->
-> 4.º
->
-> 40
->
-> 5.º
->
-> 50
->
-> 6.º
->
-> 60
->
-> 7.º
->
-> 70
->
-> 8.º
->
-> 80
->
-> 9.º
->
-> 90
->
-> 10.º
->
-> 100
+> | Período anual de actualización a partir de la entrada en vigor de la ley | Porcentaje exigible de la renta actualizada |
+> | --- | --- |
+> | 1.º | 10 |
+> | 2.º | 20 |
+> | 3.º | 30 |
+> | 4.º | 40 |
+> | 5.º | 50 |
+> | 6.º | 60 |
+> | 7.º | 70 |
+> | 8.º | 80 |
+> | 9.º | 90 |
+> | 10.º | 100 |
 >
 > b) En cinco años, cuando la indicada suma sea igual o superior a 5,5 veces el salario mínimo interprofesional.
 >
@@ -529,32 +477,13 @@ El paso del tiempo ha reducido el número de contratos afectados, pero la dispos
 >
 > 3.ª En los arrendamientos a los que corresponda, de acuerdo con lo dispuesto en el apartado 4, un período de extinción de cinco o diez años, la revisión de renta se hará de acuerdo con la tabla siguiente:
 >
-> Actualización a partir
-> de la entrada en vigor
-> de la ley
->
-> Porcentaje exigible
-> de la renta actualizada
->
-> 1.º
->
-> 10
->
-> 2.º
->
-> 20
->
-> 3.º
->
-> 35
->
-> 4.º
->
-> 60
->
-> 5.º
->
-> 100
+> | Actualización a partir de la entrada en vigor de la ley | Porcentaje exigible de la renta actualizada |
+> | --- | --- |
+> | 1.º | 10 |
+> | 2.º | 20 |
+> | 3.º | 35 |
+> | 4.º | 60 |
+> | 5.º | 100 |
 >
 > 4.ª En los arrendamientos comprendidos en el apartado 3, y en aquéllos a los que corresponda, de acuerdo con lo dispuesto en el apartado 4, un período de extinción de quince o veinte años, la revisión de renta se hará con arreglo a los porcentajes y plazos previstos en la regla 9.ª, a), del apartado 11 de la disposición transitoria segunda.
 >

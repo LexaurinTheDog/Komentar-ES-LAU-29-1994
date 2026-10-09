@@ -24,7 +24,7 @@
 - Las notas del texto consolidado («Se modifica…», «Se añade…», «Téngase en cuenta…») se reproducen bajo el precepto al que se refieren, como **notas de la fuente**. Dichas notas son la única base de las referencias del comentario a las normas modificativas y a sus fechas.
 - La fuente registra que los artículos 38 a 40 en su numeración originaria fueron derogados por la Ley 1/2000 y que el actual título V (artículos 38 a 51) fue incorporado por el Real Decreto-ley 26/2026. El comentario advierte de las remisiones de la redacción originaria que deben leerse a la luz de esta reutilización de la numeración (disposición adicional quinta, apartado 2, y disposición transitoria sexta).
 - El comentario se ha elaborado **exclusivamente con materiales locales** (el texto consolidado y sus metadatos), sin utilizar bases de datos jurídicas comerciales. **La jurisprudencia no forma parte de esta versión**: no se citan sentencias ni resoluciones judiciales. La jurisprudencia se añadirá en una fase posterior, como en los demás comentarios del autor.
-- Las tablas incluidas en las disposiciones transitorias se reproducen en la forma lineal en que aparecen en la fuente.
+- Las tablas incluidas en las disposiciones transitorias segunda y tercera se reproducen como tablas, fila por fila y con las mismas celdas que la tabla del texto consolidado.
 
 ## Licencia
 
